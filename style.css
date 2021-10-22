@@ -1,0 +1,13 @@
+.wrapper {    
+    width: 300px;
+    margin: auto;
+}
+.text-center{
+text-align: center;
+}
+.dark-background {
+    background-color:olive;
+}
+body{
+    background-color: silver;
+}
