@@ -6,8 +6,29 @@
 text-align: center;
 }
 .dark-background {
-    background-color:olive;
+    background-color:#1F7A8C;
 }
-body{
-    background-color: silver;
+body {
+    background-color: #E1E5F2
 }
+
+main{
+    text-align: center;
+    
+}
+ul {
+    list-style-position: inside
+}
+html { 
+    background-image: url('https://digitaladdictsblog.com/wp-content/uploads/2019/01/Hubble-Space-Telescope-Double-Star-Cluster-768x576.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  header {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  footer {
+      text-align: center;
+  }
