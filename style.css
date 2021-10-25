@@ -19,13 +19,7 @@ main{
 ul {
     list-style-position: inside
 }
-html { 
-    background-image: url('https://digitaladdictsblog.com/wp-content/uploads/2019/01/Hubble-Space-Telescope-Double-Star-Cluster-768x576.jpg') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+
   header {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
